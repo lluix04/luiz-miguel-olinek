@@ -19,7 +19,7 @@
 
 - [banco de dados BD](https://github.com/brunocampos01/banco-de-dados) - 
 
-- [analize de dados projetos CD](copiar-URL-do-projeto-no-Gihttps://github.com/Patotricks15/Ciencia-de-dados-projetos) - 
+- [analize de dados projetos CD](https://github.com/Patotricks15/Ciencia-de-dados-projetos) - 
 
 ## ✨ Projeto em destaque
 
