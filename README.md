@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou Luiz Miguel Olinek
+ <img width="2000" height="2000" alt="octocat-1765455165240 (1)" src="https://github.com/user-attachments/assets/9dbc0379-8406-44fb-a936-8e8b2cfb2fe5" />
 
-https://github.com/lluix04/luiz-miguel-olinek/blob/main/octocat-1765455165240.png?raw=true
+
+
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de Desenvolvimento de Sistemas  
