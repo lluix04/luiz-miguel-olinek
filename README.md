@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou Luiz Miguel Olinek
 
-![Mascote](https://github.githubassets.com/images/icons/emoji/unicode/1f431.png)  
-
+https://github.com/lluix04/luiz-miguel-olinek/blob/main/octocat-1765455165240.png?raw=true
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de Desenvolvimento de Sistemas  
